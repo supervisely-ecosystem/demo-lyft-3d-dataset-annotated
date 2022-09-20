@@ -31,7 +31,7 @@ Pointcloud episodes for this project were acquired from [LYFT 3D](https://level-
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset-annotated/releases/download/v0.0.1/demo_lyft_3d_annotated.zip) (409,3 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-lyft-3d-dataset-annotated/releases/download/v0.0.1/demo_lyft_3d_annotated.zip) (202 MB).
 
 ## Statistics
 
