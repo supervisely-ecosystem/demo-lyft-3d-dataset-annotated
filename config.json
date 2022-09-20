@@ -1,12 +1,12 @@
 {
-  "name": "Demo pointcloud episodes with labels",
-  "description": "Project with labeled pointcloud episodes",
+  "name": "Demo LYFT 3D dataset annotated",
+  "description": "Demo project with pointcloud episodes from LYFT 3D dataset with labels",
   "type": "project",
   "categories": [
     "import",
     "pointclouds",
     "project"
   ],
-  "icon": "https://i.imgur.com/NgDOQ8R.png",
+  "icon": "https://user-images.githubusercontent.com/48913536/191277501-8fb01b99-903f-4a9f-8409-18e8c7aa0bd3.png",
   "icon_cover": true
 }
