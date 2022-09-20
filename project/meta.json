@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "title": "car",
+            "shape": "cuboid_3d",
+            "color": "#8A130F",
+            "geometry_config": {},
+            "id": 548033,
+            "hotkey": ""
+        },
+        {
+            "title": "pedestrian",
+            "shape": "cuboid_3d",
+            "color": "#0F8A62",
+            "geometry_config": {},
+            "id": 548039,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "cuboid_3d",
+            "color": "#2B0F8A",
+            "geometry_config": {},
+            "id": 548043,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_cloud_episodes"
+}
