@@ -24,7 +24,7 @@ Demo project with pointcloud episodes from LYFT 3D dataset with labels
 
 ## Overview 
 
-`demo_lyft_3d_annotated` is an example project with labeled episode. 
+`demo_lyft_3d_annotated` is an example project with labeled point cloud episode. 
 Pointcloud episodes for this project were acquired from [LYFT 3D](https://level-5.global/data/) dataset.
 
 <img src="https://user-images.githubusercontent.com/48913536/191277521-b9ec7e85-8cc4-48c0-a876-19f976b8046c.png" style="width:150%;"/>
@@ -35,4 +35,4 @@ Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-lyf
 
 ## Statistics
 
-Project contains 1 datasets, with 1 labeled pointcloud episode in it.
+Project contains 1 dataset with 1 labeled pointcloud episode.
